@@ -4,7 +4,10 @@ public class Simple
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("hi maven");		
+		System.out.println("hi maven");	
+
+		
+		System.out.println("Hi maven i am coming");
 	}
 
 }
