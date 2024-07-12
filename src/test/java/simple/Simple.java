@@ -7,7 +7,6 @@ public class Simple
 		System.out.println("hi maven");	
 
 		
-		System.out.println("Hi maven i am coming");
 		
 		System.out.println("Commited the changes");
 		
